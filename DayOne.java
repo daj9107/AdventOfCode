@@ -1,5 +1,5 @@
 // Part 1: From the input, find the two entries that sum to 2020 and return their product.
-// Part 2: Find three entries that some to 2020 and return their product.
+// Part 2: Find three entries that sum to 2020 and return their product.
 
 import java.io.File;
 import java.io.FileNotFoundException;
