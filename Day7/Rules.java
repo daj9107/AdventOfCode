@@ -19,10 +19,6 @@ public class Rules {
 
 	static LinkedList<String> notContainsList = new LinkedList<String>();
 
-	static LinkedList<String> log = new LinkedList<String>();
-
-	static LinkedList<String> loopTracker = new LinkedList<String>();
-
 	Rules(String ruleDescription, LinkedList<String> lines){
 
 		this.lines = lines;
